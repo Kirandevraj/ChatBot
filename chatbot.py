@@ -160,7 +160,7 @@ class Session:
 
 
 session = Session()
-print ('BOT: Hi! How may I assist you?')
+print ('BOT: Hi! How may I assist you?."Exit" to end')
 time.sleep(.5)
 while True:
     inp = input('User: ')
